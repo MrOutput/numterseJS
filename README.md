@@ -2,12 +2,17 @@
 
 returns formatted abridged version of a number if possible else returns number
 
+## api 
+```js
+string numterse(number);
+```
+
 ## usage 
 ```js
 numterse(2000000); // returns 2M
 ```
 
-## tests 
+## example tests 
 
 ```
 numterse should return 0 for text: 0ms
