@@ -1,0 +1,22 @@
+{
+  "name": "numterse",
+  "description": "number formatter",
+  "main": "src/numterse.js",
+  "authors": [
+    "rafael cepeda"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "numbers",
+    "parse"
+  ],
+  "homepage": "https://github.com/MrOutput/numterseJS",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
