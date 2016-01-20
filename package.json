@@ -1,0 +1,29 @@
+{
+  "name": "numterse",
+  "version": "1.0.0",
+  "description": "make numbers terse",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha -w  tests/tests.js -R list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrOutput/numterse.js.git"
+  },
+  "keywords": [
+    "numbers",
+    "parse"
+  ],
+  "author": "rafael cepeda",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MrOutput/numterse.js/issues"
+  },
+  "homepage": "https://github.com/MrOutput/numterse.js#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
