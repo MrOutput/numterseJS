@@ -8,6 +8,7 @@ string numterse(number);
 ```
 
 ## usage 
+import numterse.js in your project and call `numterse()`
 ```js
 numterse(2000000); // returns 2M
 ```
