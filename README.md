@@ -2,6 +2,8 @@
 
 returns formatted abridged version of a number if possible else returns number
 
+**works from `1e-24` to `1e21`**
+
 ## api 
 ```js
 string numterse(number);
@@ -14,7 +16,6 @@ numterse(2000000); // returns 2M
 ```
 
 ## example tests 
-
 ```
 numterse should return 0 for text: 0ms
 numterse should return 1K for 1000: 0ms
